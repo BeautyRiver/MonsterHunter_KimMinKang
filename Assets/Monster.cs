@@ -67,7 +67,11 @@ public class Monster : MonoBehaviour
 
     public void Dead()
     {
-        gameObject.SetActive(false);
+        Destroy(this.gameObject);
     }
 
+    public void GameClear()
+    {
+
+    }
 }
