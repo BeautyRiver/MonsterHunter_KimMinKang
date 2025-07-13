@@ -102,7 +102,7 @@ MonoBehaviour:
   <MaxHP>k__BackingField: 1000
   <Armor>k__BackingField: 0
   <CurHp>k__BackingField: 0
-  <GoldValue>k__BackingField: 1000
+  <GoldValue>k__BackingField: 2000
 --- !u!95 &3018280167407969835
 Animator:
   serializedVersion: 5
